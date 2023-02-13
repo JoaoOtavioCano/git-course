@@ -1,1 +1,1 @@
-#Girt course
+# Git course
